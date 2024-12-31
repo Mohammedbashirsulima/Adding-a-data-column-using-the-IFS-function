@@ -1,0 +1,10 @@
+Step 1: Download the file
+Download and open the Microsoft Excel workbook Data_Exercise_file. The workbook contains only one worksheet called Order Details.
+
+The sheet outlines the items ordered by Contoso Bikes and already includes information on the cost per unit and quantities ordered. 
+
+If the subtotal amount in column G is over $10,000, then the customer will be given a 10% discount. You need to create a formula in H7 to work out if a discount is applicable.
+
+The delivery charge is based on region. You need to create a formula in L7 that checks the region listed in J7 and calculates the appropriate delivery charge. 
+
+Jamie has also asked for totals by region to be added in cells H2 to H4. 
